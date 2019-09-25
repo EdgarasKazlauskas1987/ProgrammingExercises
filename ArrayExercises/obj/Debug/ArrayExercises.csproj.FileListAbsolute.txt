@@ -1,0 +1,7 @@
+C:\Users\Edgaras\Desktop\Projects\ProgrammingExercises\ArrayExercises\bin\Debug\ArrayExercises.exe.config
+C:\Users\Edgaras\Desktop\Projects\ProgrammingExercises\ArrayExercises\bin\Debug\ArrayExercises.exe
+C:\Users\Edgaras\Desktop\Projects\ProgrammingExercises\ArrayExercises\bin\Debug\ArrayExercises.pdb
+C:\Users\Edgaras\Desktop\Projects\ProgrammingExercises\ArrayExercises\obj\Debug\ArrayExercises.csprojAssemblyReference.cache
+C:\Users\Edgaras\Desktop\Projects\ProgrammingExercises\ArrayExercises\obj\Debug\ArrayExercises.csproj.CoreCompileInputs.cache
+C:\Users\Edgaras\Desktop\Projects\ProgrammingExercises\ArrayExercises\obj\Debug\ArrayExercises.exe
+C:\Users\Edgaras\Desktop\Projects\ProgrammingExercises\ArrayExercises\obj\Debug\ArrayExercises.pdb

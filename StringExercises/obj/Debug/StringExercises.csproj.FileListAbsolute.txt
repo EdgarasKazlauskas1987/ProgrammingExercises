@@ -1,0 +1,7 @@
+C:\Users\Edgaras\Desktop\Projects\ProgrammingExercises\StringExercises\bin\Debug\StringExercises.exe.config
+C:\Users\Edgaras\Desktop\Projects\ProgrammingExercises\StringExercises\bin\Debug\StringExercises.exe
+C:\Users\Edgaras\Desktop\Projects\ProgrammingExercises\StringExercises\bin\Debug\StringExercises.pdb
+C:\Users\Edgaras\Desktop\Projects\ProgrammingExercises\StringExercises\obj\Debug\StringExercises.csprojAssemblyReference.cache
+C:\Users\Edgaras\Desktop\Projects\ProgrammingExercises\StringExercises\obj\Debug\StringExercises.csproj.CoreCompileInputs.cache
+C:\Users\Edgaras\Desktop\Projects\ProgrammingExercises\StringExercises\obj\Debug\StringExercises.exe
+C:\Users\Edgaras\Desktop\Projects\ProgrammingExercises\StringExercises\obj\Debug\StringExercises.pdb

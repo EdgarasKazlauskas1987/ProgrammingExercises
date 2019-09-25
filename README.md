@@ -1,0 +1,7 @@
+# Programming Exercises
+
+## Motivation
+
+### Running
+
+
